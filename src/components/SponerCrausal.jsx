@@ -5,7 +5,7 @@ import { motion } from 'framer-motion'
 
 const variants = {
     initial: {
-        y: -150,
+        y: 100,
         opacity: 0,
     },
     animate: {
